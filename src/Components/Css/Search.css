@@ -1,0 +1,38 @@
+.divN{
+    width: 100%;
+   margin:5px; 
+  }
+  div button{
+    margin: 0.3rem;
+    background-color: transparent;
+    border-radius: 10px;
+    border-color: rgba(229, 222, 8, 0.963);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8rem;
+    color: rgb(255, 252, 255);
+    position: relative;
+    left: 15%;
+    caret-color: aliceblue;
+    
+  
+  }
+  
+  .input{
+    position: relative;
+    left: 15%;
+    background-color:transparent;
+    border-radius: 10px;
+    border-color: rgb(249, 246, 45);
+    font-weight: 100px;
+    text-align: center;
+    caret-color: rgb(218, 21, 224);
+    color: rgb(40, 187, 138);
+    
+  }
+  ::placeholder{
+    font-size: 1rem;
+    color: rgb(238, 225, 225);
+    font-family:'Times New Roman'; 
+     
+  }

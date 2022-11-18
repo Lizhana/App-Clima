@@ -1,0 +1,34 @@
+.divC {
+
+    background-color: rgba(0, 0, 0, 0.845);
+      display:inline-block;
+      opacity: 0.6;
+      display: inline-block;
+      width: 35%;
+      margin: 1rem;
+      border-radius: 1rem;
+      border-color: rgb(34, 176, 232);
+      border-style: double;
+      box-shadow: -10px -5px .5px rgb(73, 37, 200)  ;
+    }
+    .divC h2{
+        color: rgb(245, 245, 245);
+        display: inline;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+        font-style: italic;
+        text-shadow: -3px 0 rgb(247, 14, 14), 1px 0 #000, 0 -1px #000000;
+
+    }
+    .p {
+   
+       color: rgb(253, 247, 247);
+       font-size: 1.1rem;
+       font-family:monospace;
+       text-align: center;
+    }
+    .imagenC{
+      width: 250px;
+      height: 250px;
+      position: relative;
+      top: -1rem;
+    }
